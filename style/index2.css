@@ -1,0 +1,38 @@
+#dashboard{
+	background-color: #4C9ED9;
+	color:white;
+	padding: 70px;
+	font-size: 30px;
+	width:70%;
+	float: left;
+}
+
+#button{
+	margin-right: 100px;
+	float: right;
+	background-color: #4C9ED9;
+	color:white;
+	width:10%;
+	padding: 15px;
+	margin-top: 50px;
+}
+
+#imagediv{
+	float:left;
+	margin-top: 5px;
+	width:100%;
+}
+
+div{
+	display: inline-block;
+	width:25%;
+}
+
+img{
+	width:auto;
+	width:250px;
+}
+
+body{
+	background-color: #C8DBE9;
+}
